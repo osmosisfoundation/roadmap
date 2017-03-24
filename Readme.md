@@ -6,7 +6,7 @@ For more details on each package's tooling and features visit the package reposi
 
 Please contribute to this roadmap by providing feedback via the issues page of this repository, or alternatively submit a pull-request
 
-___The primary goal of OsMoSiS is to limit redundancy in tool development___
+___The primary goal of OsMoSiS is to limit redundancy in tool development and lower the technical barrier to entry in pharm sciences___
 
 ### New Projects
 
